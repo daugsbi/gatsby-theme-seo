@@ -1,0 +1,21 @@
+{
+  "name": "@daugsbi/gatsby-theme-seo",
+  "version": "0.0.1",
+  "main": "index.js",
+  "author": "Denis Augsburger <denis.augsburger@twteam.ch> (@denisaugsburger)",
+  "license": "MIT",
+  "dependencies": {
+    "gatsby-plugin-robots-txt": "^1.5.0",
+    "gatsby-plugin-sitemap": "^2.2.19"
+  },
+  "peerDependencies": {
+    "gatsby": "^2.16.4",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  },
+  "devDependencies": {
+    "gatsby": "^2.16.4",
+    "react": "^16.10.2",
+    "react-dom": "^16.10.2"
+  }
+}
